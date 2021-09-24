@@ -1,5 +1,5 @@
 /*
-JavaScript Programming Exercise 1
+JavaScript Programming Exercise 2
 Strings and string functions
 Derek Nazzoni
 */
@@ -11,7 +11,7 @@ let age = 31;
 
 console.log(l);
 //Concatenation
-let messageConcatenation = 'My name is '+ firstName +' '+lastName+' and my age is '+ age;
+let messageConcatenation = 'My name is '+ firstName +' '+ lastName +' and my age is '+ age;
 console.log(messageConcatenation);
 console.log(l);
 
